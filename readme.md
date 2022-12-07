@@ -1,11 +1,9 @@
 <h1 align="center">Hello 👋, Akil Chowdhury here</h1>
 <h3 align="center">Full stack developer with a little perfectionist mindset in Frontend layout</h3>
 
-- 👨‍💻 All of my projects are available at [https://akil-chowdhury.web.app/](https://akil-chowdhury.web.app/)
+- 👨‍💻 All of my projects are available at [akil-chowdhury.web.app/](https://akil-chowdhury.web.app/)
 
 - 📫 How to reach me **akiluddinchy@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FVO8xtoq8OjqYiV8Ehih-AcXf0hdMPg_/view?usp=sharing](/resume)
 
 - ⚡ Fun fact **I can solve a rubik's cube in under 2 minutes**
 
