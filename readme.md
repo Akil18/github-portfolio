@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **akiluddinchy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FVO8xtoq8OjqYiV8Ehih-AcXf0hdMPg_/view?usp=sharing](https://drive.google.com/file/d/1FVO8xtoq8OjqYiV8Ehih-AcXf0hdMPg_/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FVO8xtoq8OjqYiV8Ehih-AcXf0hdMPg_/view?usp=sharing](/resume)
 
 - ⚡ Fun fact **I can solve a rubik's cube in under 2 minutes**
 
